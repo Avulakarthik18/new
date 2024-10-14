@@ -1,1 +1,2 @@
-This is the change from branch1
+This is the change from branch This is the change from branch2
+
