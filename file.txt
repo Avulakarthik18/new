@@ -1,3 +1,0 @@
-
-this is a conflicting change on the master branch
-
